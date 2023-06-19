@@ -21,7 +21,7 @@ _ Post functionality:
   + Download picture from post to your phone
   + Turn on/off download picture permission
   + Set post status to private or public 
-  + Delete post
+  + Delete post\
 _ Edit profile
 
 # Link Demo:
