@@ -14,6 +14,7 @@ _ User can register/log in/log out account\
 _ Search for other users to follow\
 _ Follow/ Unfollow another users\
 _ Upload Post and Pictures\
+_ Edit profile\
 _ Post functionality:
   + Like post
   + Comment/ Delete comment
@@ -21,9 +22,8 @@ _ Post functionality:
   + Download picture from post to your phone
   + Turn on/off download picture permission
   + Set post status to private or public 
-  + Delete post\
-  + 
-_ Edit profile
+  + Delete post
+
 
 # Link Demo:
 https://youtu.be/TD5juArmK08
