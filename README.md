@@ -22,6 +22,7 @@ _ Post functionality:
   + Turn on/off download picture permission
   + Set post status to private or public 
   + Delete post\
+  + 
 _ Edit profile
 
 # Link Demo:
